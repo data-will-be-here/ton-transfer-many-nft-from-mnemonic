@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "tonweb": "^0.0.40",
+    "tonweb-mnemonic": "^1.0.1"
+  },
+  "type": "module"
+}
